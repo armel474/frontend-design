@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "frontend-design",
+  "description": "Skill IA : création d'interfaces frontend distinctives et de qualité production (HTML/CSS/React) avec direction esthétique forte",
+  "owner": {
+    "name": "Armel Junior",
+    "email": "armel474@github.com"
+  },
+  "plugins": [
+    {
+      "name": "frontend-design",
+      "description": "Skill IA : création d'interfaces frontend distinctives et de qualité production (HTML/CSS/React) avec direction esthétique forte",
+      "author": {
+        "name": "Armel Junior — DigiHunt"
+      },
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
